@@ -12,10 +12,9 @@ const Item = ({ todo }) => {
   // ● Add if statement for users not to be able to edit the preset data
   // *********** note ********** //
 
-  let message = "";
   const toggleEditMode = () => {
     if(todo.id < 40){
-      message = "You are not allowed to edit these data"
+      console.log("You are not allowed to edit these data");
     }else{
       const newTodo = { ...todo, editing: !todo.editing };
       todoApi.patch(newTodo).then((newTodo) => {
@@ -51,7 +50,7 @@ const Item = ({ todo }) => {
 
   const complete = (todo) => {
     if(todo.id < 40){
-      message = "You are not allowed to edit these data";
+      console.log("You are not allowed to edit these data");
     }else{
       todoApi.delete(todo).then(() => {
       dispatch({ type: "todo/delete", todo});
