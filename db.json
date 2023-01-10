@@ -1,0 +1,196 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "content": "PASSPORT",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "content": "VISA",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "content": "Boarding Pass",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 4,
+      "content": "Money",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "content": "Credit card",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 6,
+      "content": "Travel Assurance",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 7,
+      "content": "Covid vaccination pass",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 8,
+      "content": "Suit case",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 9,
+      "content": "Backpack",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 10,
+      "content": "Small plastic bag",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 11,
+      "content": "Pajamas",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 12,
+      "content": "Underwears",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 13,
+      "content": "Backpack",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 14,
+      "content": "Tshirts",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 15,
+      "content": "Socks",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 16,
+      "content": "Toothbrush",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 17,
+      "content": "Towel",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 18,
+      "content": "Tissue paper",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 19,
+      "content": "Shampoo",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 20,
+      "content": "Soap",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 21,
+      "content": "Medicins",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 22,
+      "content": "Sunglasses",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 23,
+      "content": "Wrist watch",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 24,
+      "content": "Telephone",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 25,
+      "content": "Camera",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 26,
+      "content": "Adapter",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 27,
+      "content": "Guide book",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 28,
+      "content": "Umbrella",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 29,
+      "content": "Thongs",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 30,
+      "content": "Travel pillow",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 31,
+      "content": "Sanitary materials",
+      "editing": false,
+      "checked": false
+    },
+    {
+      "id": 32,
+      "content": "Shaver",
+      "editing": false,
+      "checked": false
+    }
+  ]
+}
