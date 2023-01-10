@@ -26,4 +26,5 @@ button.delete__button{
   background-color: #E16B6E;
   color: white;
   border: none;
+  cursor: pointer;
 }
