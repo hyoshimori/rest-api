@@ -10,13 +10,13 @@
       "id": 2,
       "content": "VISA",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 3,
       "content": "Boarding Pass",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 4,
@@ -28,7 +28,7 @@
       "id": 5,
       "content": "Credit card",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "id": 8,
       "content": "Suit case",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 9,
@@ -58,7 +58,7 @@
       "id": 10,
       "content": "Small plastic bag",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 11,
@@ -130,7 +130,7 @@
       "id": 22,
       "content": "Sunglasses",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 23,
@@ -154,19 +154,19 @@
       "id": 26,
       "content": "Adapter",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 27,
       "content": "Guide book",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 28,
       "content": "Umbrella",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 29,
@@ -178,7 +178,7 @@
       "id": 30,
       "content": "Travel pillow",
       "editing": false,
-      "checked": false
+      "checked": true
     },
     {
       "id": 31,
@@ -190,7 +190,7 @@
       "id": 32,
       "content": "Shaver",
       "editing": false,
-      "checked": false
+      "checked": true
     }
   ]
 }
